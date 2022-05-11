@@ -83,7 +83,7 @@ nm = Popu("Joy", 25)
 print(nm.get_name())
 print(nm.get_ages())
 
-
+pront("hello world")
 
 
 
